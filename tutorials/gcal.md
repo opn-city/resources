@@ -28,6 +28,7 @@ Sometimes district leaders need to confirm the attendance of multiple district l
     - Group email (e.g.mancb10.econ@ etc.)
     - The rest of the settings are setup after your preferences
 1. Click Create.
+2. Tap **Save My Changes** and you're done
 
 
 ## 2. Add members to your Group
