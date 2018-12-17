@@ -1,4 +1,4 @@
-# Google Calendar Integration
+# [1] Google Calendar Integration
 
 1. When you have finished editing your notice, tap **Submit**, and then the **Export**-button in the control-buttons on the top right.
 
@@ -10,7 +10,7 @@
 
 
 
-## Bulk Invitation
+## [2] Bulk Invitation
 
 Sometimes district leaders need to confirm the attendance of multiple district leaders simulataniously. They can do this with Opn by creating their own Googgle Groups, where members will be able to confirm their attendance.
 
