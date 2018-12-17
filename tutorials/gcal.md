@@ -1,4 +1,4 @@
-# [1] Google Calendar Integration
+## [1] Google Calendar Integration
 
 1. When you have finished editing your notice, tap **Submit**, and then the **Export**-button in the control-buttons on the top right.
 
