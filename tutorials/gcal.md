@@ -1,16 +1,12 @@
 # Google Calendar Integration
 
-1. Go to the Notice you want to sync and tap "Export"
+1. When you have finished editing your notice, tap **Submit**, and then the **Export**-button in the control-buttons on the top right.
 
-2. Next to Google Calendar, tap the settings option to link your Googgle Calendar with Opn. 
+2. If you have not already authenticated with Google Calendar, tap the settings option to link your Googgle Calendar with Opn. 
 
-3. Once you have finished the authentication, you can now tap the Google Calendar to sync this event. Once tapped, this event will automatically appear in your primary calendar.
+3. If you have already authenticated with Ggooggle Calendar, you can  tap the Google Calendar icon to sync this event. 
 
-## Additional Options: Attenddees and different calendars
-
-4. By tapping the settings button you can customize further your synchronization;
-    - add emails to be invited
-    - set a separate calendar
+4. When you are ready, tap the **Publish**-button on the top right. Once the Notice is published, the event will automaticallu appear in your calendar.
 
 
 
@@ -45,10 +41,33 @@ To add up to 10 people directly to your Group at once, follow the steps below:
 2. Click **Add**.
 
 
+
 ## 3. Add the created email to Opn
+
+Now: 
+
+To invite a specific group, please let us know the googgle group email and we wll add it to the template so this goup will automatically be invited.
+
+(Later this will be automatic:)
 
 1. Go back to the export settings menu and add the relevant e-mail.
 2. You're done. All members of the specific group will be invited to the event and can confirm their attendance.
+
+
+## Additional Options: Attenddees and different calendars
+
+4. By tapping the settings button you can customize further your synchronization;
+    - add emails to be invited
+    - set a separate calendar
+
+
+
+
+## Additional Options: Attenddees and different calendars
+
+4. By tapping the settings button you can customize further your synchronization;
+    - add emails to be invited
+    - set a separate calendar
 
 
 
