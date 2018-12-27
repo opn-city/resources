@@ -44,23 +44,14 @@ To add up to 10 people directly to your Group at once, follow the steps below:
 
 ## 3. Add the created email to Opn
 
-Now: 
+Current: 
 
-To invite a specific group, please let us know the googgle group email and we wll add it to the template so this goup will automatically be invited.
+- To invite a specific group, please let us know the googgle group email and we wll add it to the template so this goup will automatically be invited.
 
-(Later this will be automatic:)
+Later:
 
 1. Go back to the export settings menu and add the relevant e-mail.
 2. You're done. All members of the specific group will be invited to the event and can confirm their attendance.
-
-
-## Additional Options: Attenddees and different calendars
-
-4. By tapping the settings button you can customize further your synchronization;
-    - add emails to be invited
-    - set a separate calendar
-
-
 
 
 ## Additional Options: Attenddees and different calendars
