@@ -15,7 +15,7 @@
 Sometimes district leaders need to confirm the attendance of multiple district leaders simulataniously. They can do this with Opn by creating their own Googgle Groups, where members will be able to confirm their attendance.
 
 
-## 1. Add members to your Group
+## 1. Add a New Group
 
 1. Sign in to [Google Groups](https://groups.google.com/).
 1. Near the top left, click Create group.
